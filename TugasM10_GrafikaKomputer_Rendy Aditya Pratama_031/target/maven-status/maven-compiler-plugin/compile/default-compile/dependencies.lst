@@ -1,0 +1,5 @@
+classpath:/home/codespace/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar	785029:1694875888000
+classpath:/home/codespace/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar	135546:1694876041000
+classpath:/home/codespace/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar	929192:1694876671000
+classpath:/home/codespace/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar	120283:1694877117000
+classpath:/home/codespace/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar	712082:1661949058000

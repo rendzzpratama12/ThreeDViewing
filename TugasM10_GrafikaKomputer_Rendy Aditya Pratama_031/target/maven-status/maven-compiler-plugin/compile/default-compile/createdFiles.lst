@@ -1,0 +1,13 @@
+com/grafkom/viewing3d/threedviewing/ShaderLoader.class
+com/grafkom/viewing3d/threedviewing/Texture2D.class
+com/grafkom/viewing3d/threedviewing/PerspectiveProjection.class
+com/grafkom/viewing3d/threedviewing/Mesh3D.class
+com/grafkom/viewing3d/threedviewing/ProjectionTaxonomyManager.class
+com/grafkom/viewing3d/threedviewing/ProjectionTaxonomyManager$ProjectionType.class
+com/grafkom/viewing3d/threedviewing/VisualRealismSuite.class
+com/grafkom/viewing3d/threedviewing/StereoAnaglyphRenderer.class
+com/grafkom/viewing3d/threedviewing/ThreeDViewing.class
+com/grafkom/viewing3d/threedviewing/VisualRealismSuite$1.class
+com/grafkom/viewing3d/threedviewing/ShadowMapFBO.class
+com/grafkom/viewing3d/threedviewing/HSRManager.class
+com/grafkom/viewing3d/threedviewing/Camera3D.class
